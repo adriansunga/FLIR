@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/natalie/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/res/merged/debug/raw/default_camera_files.zip",
+        "source": "/Users/natalie/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/exploded-aar/flironesdk/res/raw/default_camera_files.zip"
+    },
+    {
+        "merged": "/Users/natalie/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/res/merged/debug/raw/sampleframes.zip",
+        "source": "/Users/natalie/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/src/main/res/raw/sampleframes.zip"
+    }
+]
